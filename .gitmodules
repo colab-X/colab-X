@@ -8,6 +8,11 @@
 	url = git@github.com:colab-X/contract
 	branch = main
 
+[submodule "collabX-next-appv0"]
+	path = app-v0
+	url = git@github.com:colab-X/app-v0
+	branch = main
+	
 [submodule "collabX-app"]
 	path = app
 	url = git@github.com:colab-X/app
