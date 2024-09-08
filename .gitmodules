@@ -3,3 +3,8 @@
 	url = git@github.com:colab-X/contracts-galadriel
 	branch = main
 
+[submodule "collabX-contracts"]
+	path = collabX-contracts
+	url = git@github.com:colab-X/contract
+	branch = main
+
