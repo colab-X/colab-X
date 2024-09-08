@@ -66,7 +66,7 @@ collab-X/
 └── other project files
 ```
 
---
+---
 
 ## 👥 Team
 
