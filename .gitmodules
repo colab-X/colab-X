@@ -1,0 +1,5 @@
+[submodule "contracts-galadriel"]
+	path = contracts-galadriel
+	url = git@github.com:colab-X/contracts-galadriel
+	branch = main
+
