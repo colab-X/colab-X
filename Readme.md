@@ -1,6 +1,6 @@
 # Collab X - The Future of Creative Collaboration 👥
 
-### Deployed Application: [Collab X](https://collab-x-lake.vercel.app/)
+### Live Deployment (Fully OnChain): [Collab X](https://collab-x-lake.vercel.app/)
 
 ## 🚀 Overview
 
